@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Python <br>
 **Category:** Turing Machine <br>
-**Order:** 0 <br>
+**Order:** 14 <br>
 
 ## Parameters
 
